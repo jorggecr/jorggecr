@@ -36,5 +36,5 @@ About me
 📫 How to reach me ...
 
 - 📧 jorgge.nc@gmail.com
-- 🟦 https://www.linkedin.com/in/jscr/
+- 🟦 https://www.linkedin.com/in/jorggecr/
 - 📍 Bogotá, Colombia
