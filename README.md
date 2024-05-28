@@ -1,14 +1,14 @@
 
-## Hello! I'm Jorge 👋
-<!--- 
+# Hello! I'm Jorge 👋
+---
 
-An Industrial Engineer and Data Scientist
+:yum: An Industrial Engineer and Data Scientist
 
-<!--- 
+---
 
 - 👨 A passionate professional in Machine Learning (ML), Continuous Improvement, and Business Efficiency. I strongly believe in the power of data as a driver of innovation and teamwork as a catalyst to turn ideas into tangible and sustainable solutions for today's challenges
 
-<!--- 
+---
 
 A unique combination of skills:
 
@@ -20,7 +20,7 @@ A unique combination of skills:
 - 🔢 Hadoop | Spark
 - ⚙️ GitHub | Docker | Trello
 
-<!--- 
+---
 
 About me
 
@@ -31,10 +31,10 @@ About me
 - 👀 I’m interested in leveraging data science and machine learning to drive continuous improvement and efficiency in business processes
 
 
-<!--- 
+---
 
 📫 How to reach me ...
 
-📧 jorgge.nc@gmail.com
-🟦 https://www.linkedin.com/in/jscr/
-📍 Bogotá, Colombia
+- 📧 jorgge.nc@gmail.com
+- 🟦 https://www.linkedin.com/in/jscr/
+- 📍 Bogotá, Colombia
