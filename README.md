@@ -2,7 +2,7 @@
 # Hello! I'm Jorge 👋
 ---
 
-An Industrial Engineer and Data Scientist
+- An Industrial Engineer and Data Scientist
 
 ---
 
